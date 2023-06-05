@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt=br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon s.ico" type="image/x-icon">
+    <title>Links</title>
+    <style>
+        body{
+            font-family: 'Courier New', Courier, monospace;
+        }
+
+        a{
+            color: black;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:visited{
+            color:rgb(79, 41, 248);
+        }
+
+        a:hover{
+            text-decoration: underline;
+            color: black;
+        }
+
+        a:active{
+            color: green;
+        }
+
+        a::after{
+            content: ' [link]';
+            text-decoration: none;
+            font-weight: normal;
+            color: darkgray;
+        }
+    </style>
+</head>
+<body>
+    <h1>Personalizando Links</h1>
+    <ul>
+        <li><a href="https://github.com/Savio-S-Morais" target="_blank">Repositório GitHub</a></li>
+        <li><a href="https://www.youtube.com/channel/UCF4yAGpEYvSCA81RWJsTxyQ" target="_blank">Canal do YouTube</a></li>
+        <li><a href="https://www.cursoemvideo.com/" target="_blank">Site do Curso em Vídeo</a></li>
+    </ul>
+</body>
+</html>
