@@ -55,7 +55,23 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 - [Tabelas responsivas](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex023/tabela006.html)
 
 ## Módulo 4
-_Em contrução_
+- [Iframe](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex024/iframe001.html)
+- [Navegação em Iframe](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex024/iframe003.html) 
+- [Conteúdos dentro de iFrames](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex024/iframe006.html)
+
+**Projeto Redes Sociais**: https://savio-s-morais.github.io/projeto-social/
+
+**Formulários**
+- [Primeiro Formulário](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex025/form001.html)
+- [Input: Text e password](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex025/form002.html)
+- [Input: Number, month, date e time](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex025/form003.html)
+- [Input: Email e Tel](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex025/form004.html)
+- [Input: Checkbox e radio](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex025/form005.html)
+- [Input: Color, range e file](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex025/form006.html)
+- [Input: Select, datalist e textarea](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex025/form007.html)
+- [Output](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex025/form008.html)
+
+🚧 _Em contrução_ 🚧 👷
 
 ## Módulo 5
 _Não iniciado_
