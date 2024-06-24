@@ -35,7 +35,24 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 - [Grouping Tag](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex020/caixa02.html)
 - [Bordas](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex020/caixa03.html)
 
+**Projeto Android**: https://savio-s-morais.github.io/projeto-android/ 
+
 ## Módulo 3
+**Aplicação e estilização de fundos**
+
+- [Fundos](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex021/fundo001.html)
+- [Fundo personalizado](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex021/fundo002.html)
+- [Posicionamentos](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex021/fundo003.html)
+- [Fundos Fixos](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex021/fundo006.html)
+- [Alinhamento Vertical](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex021/fundo007.html)
+
+**Projeto Cordel:** https://savio-s-morais.github.io/projeto-cordel/
+
+**Tabelas**
+- [Primeira Tabela](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex023/tabela001.html)
+- [Uso de tabelas grandes](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex023/tabela002.html)
+- [Mesclagem de Células](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex023/tabela003.html)
+- [Tabelas responsivas](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex023/tabela006.html)
 
 ## Módulo 4
 _Em contrução_
