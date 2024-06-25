@@ -71,6 +71,10 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 - [Input: Select, datalist e textarea](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex025/form007.html)
 - [Output](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex025/form008.html)
 
+**Media Queries**
+- [Media Type](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex026/mq001/index.html)
+- [Media Feature](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex026/mq002/index.html)
+
 🚧 _Em contrução_ 🚧 👷
 
 ## Módulo 5
