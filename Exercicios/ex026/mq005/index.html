@@ -4,12 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Menu Responsivo</title>
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
     <link rel="stylesheet" href="estilos/style.css">
 </head>
 <body>
-    <head>
+    <header>
         <h1>Meu Site</h1>
-        <menu>
+        <i id="burger" class="material-symbols-outlined" onclick="clickMenu()">menu</i>
+        <menu id="menu">
             <ul>
                 <li><a href="#">Opção 1</a></li>
                 <li><a href="#">Opção 2</a></li>
@@ -18,7 +20,7 @@
                 <li><a href="#">Opção 5</a></li>
             </ul>
         </menu>
-    </head>
+    </header>
     <main>
         <article>
             <h2>Testando Media Queries</h2>
@@ -27,5 +29,14 @@
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium est perferendis dicta enim, sunt ut impedit voluptates ullam veritatis quis aut non modi nobis earum! Illo repellendus ipsa enim modi. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Pariatur ad in rem doloribus quia facilis corporis fugit expedita iste. Aperiam cumque unde nemo omnis optio possimus voluptatem nulla deleniti iure.</p>
         </article>
     </main>
+    <script>
+        function clickMenu() {
+            if (menu.style.display == 'block') {
+                menu.style.display = 'none'
+            } else {
+                menu.style.display = 'block'
+            }
+        }
+    </script>
 </body>
 </html>
