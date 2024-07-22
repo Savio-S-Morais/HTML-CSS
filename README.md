@@ -74,8 +74,10 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 **Media Queries**
 - [Media Type](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex026/mq001/index.html)
 - [Media Feature](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex026/mq002/index.html)
+- [Mobile First + Device Breakpoints](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex026/mq004/index.html)
+- [Menu responsivo com Media Query](https://savio-s-morais.github.io/HTML-CSS/Exercicios/ex026/mq005/index.html)
 
-🚧 _Em contrução_ 🚧 👷
+**Projeto Login**: https://savio-s-morais.github.io/projeto-login/
 
 ## Módulo 5
-_Não iniciado_
+🚧 _Em contrução_ 🚧 👷
